@@ -1,0 +1,16 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
+
+
+
+Main Script File
+Rename your current code to:
+wind_forecast_analysis.py
