@@ -1,0 +1,13 @@
+Project Folder Structure:
+
+wind-power-forecasting/
+│
+├── Location1.csv
+├── Location2.csv
+├── Location3.csv
+├── Location4.csv
+│
+├── wind_forecast_analysis.py   # (Your main Python script)
+├── README.md                   # (Project description)
+├── requirements.txt            # (Python libraries)
+└── .gitignore
